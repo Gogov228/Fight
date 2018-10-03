@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fight</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<color name="activity_color">#000000</color>
+	<string name="head">Голова</string>
+	<string name="body">Тело</string>
+	<string name="hands">Руки</string>
+	<string name="legs">Ноги</string>
+	<string name="your_hero">Ваш герой</string>
+	<string name="mainmenu">В главное меню</string>
+	<string name="upp_level">Повысить уровень</string>
+	<string name="arena">Арена</string>
+	<string name="static_hero">Статистика вашего героя</string>
+	<string name="hello">Приветствую тебя!</string>
+	<string name="go">Проходи, не стой как фуфел</string>
+	<string name="exit">Выход</string>
+	<string name="item1">Кастет фуфела:+10 к атаке 
+[стоимость 70 монет]</string>
+	<string name="item2">Перо:+15 к минимальной атаке;+10 к критическому урону 
+[Стоимость 145 монет]</string>
+	<string name="item3">Рубаха бойца:+50 к здоровью;+5 к атаке [стоимость 115 монет]</string>
+	<string name="item4">Банка яжки:+10% к шансу нанесения критического удара [стоимомть 200 монет]</string>
+	<string name="item5">Шапка 228:+5 ко всем атрибутам [стоимость 228 монет]</string>
+	<string name="item6">Синие угги:+100 к здоровью;+7 к атаке [стоимость 210 монет]</string>
+	<string name="item7">Маслина:+20 к минемальному урону;+ 20 к критическому урону [стоимость 290 монет]</string>
+	<string name="item8">Гусь:+15 к шансу нанести критический удар;+25 к урону [стоимость 320 монет]</string>
+	<string name="shop">Магазин</string>
+	<string name="item9">Бита:+30 к урону;+7 к шансу критического удара;+20 к критическому удару;[стоимость 400]</string>
+	<string name="fufel">Проходи браток,не стесняйся</string>
+	<string name="resultat">Результат</string>
+	<string name="hit">Ударить</string>
+	<string name="up">+</string>
+	<string name="escape">Избежать боя</string>
+	<string name="op">Ваш противник</string>
+</resources>
